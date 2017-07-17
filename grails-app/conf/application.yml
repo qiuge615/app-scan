@@ -2,7 +2,7 @@
 grails:
     profile: web
     codegen:
-        defaultPackage: app.scan
+        defaultPackage: app.scan2
     spring:
         transactionManagement:
             proxies: false
